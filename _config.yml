@@ -1,2 +1,2 @@
 # theme: jekyll-theme-cayman
-theme: mmistakes/minimal-mistakes
+theme: "mmistakes/minimal-mistakes@4.20.1"
