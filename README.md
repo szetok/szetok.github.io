@@ -1,1 +1,1 @@
-# seetoe.github.io
+# szetok.github.io
